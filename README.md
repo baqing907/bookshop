@@ -1,1 +1,2 @@
-# bookshop
+学号：202230443507  姓名：郑楚豪
+新建一个bookshop文件夹将解压后的src文件夹，bookshop.iml和pom.xml放入，之后就可以配置bookshop项目，数据库为bookshop.sql，接着就可以在本地配置项目bookshop的环境，配置好后启动bookshopapplication就可以在本地的8080端口部署相关内容。
